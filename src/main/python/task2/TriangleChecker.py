@@ -13,5 +13,5 @@ class TriangleChecker:
         return 'Нужно вводить только числа!'
 
 
-triangle1 = TriangleChecker([3, 5, 'a'])
+triangle1 = TriangleChecker([3, 5, 1])
 print(triangle1.is_triangle())
